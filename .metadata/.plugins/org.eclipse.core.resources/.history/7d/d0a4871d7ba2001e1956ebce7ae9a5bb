@@ -1,0 +1,11 @@
+package PrimeirosPassosJava;
+
+import java.util.Scanner;
+
+public class Scanner {
+
+	public static void main (String[]args) {
+		java.util.Scanner objectName = new java.util.Scanner(System.in);
+	}
+	
+}

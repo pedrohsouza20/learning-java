@@ -1,0 +1,7 @@
+package PrimeirosPassosJava;
+
+public class ImpressaoTexto {
+	public static man void(String[] args) {
+		System.out.print("Olá, mundo!");
+	}
+}

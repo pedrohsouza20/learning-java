@@ -1,0 +1,12 @@
+package PrimeirosPassosJava;
+
+public class ImpressaoTexto {
+	public static void main(String[] args) {
+		System.out.print("Olá, mundo!");
+		
+		System.out.println("Texto simples");
+		System.out.println("Texto simples 2");
+		
+		System.out.printf("%s %d", "Nome: Fulustreco", 17);
+	}
+}

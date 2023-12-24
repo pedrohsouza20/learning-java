@@ -1,0 +1,17 @@
+package PrimeirosPassosJava;
+
+import java.util.Scanner;
+
+public class Scanner {
+
+	public static void main	(String[] args) {
+		java.util.Scanner objectName = new java.util.Scanner(System.in);
+		System.out.println("Digite seu nome:");
+
+		String name = objectName.nextLine();
+
+		System.out.printf("Nome: %s", name);
+
+	}
+
+}
